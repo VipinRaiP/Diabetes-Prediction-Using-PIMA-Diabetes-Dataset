@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Data Overview}{}% 1
+\BOOKMARK [1][-]{section.2}{Data Preprocessing}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Handling missing values}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Observations:}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Inference}{subsection.2.1}% 5
+\BOOKMARK [1][-]{section.3}{Exploratory Data Analysis}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Probability Density Function}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Observation}{subsection.3.1}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Box Plots}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Pregnancies}{subsection.3.2}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.2}{BMI}{subsection.3.2}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Glucose}{subsection.3.2}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Blood Pressure}{subsection.3.2}% 13
+\BOOKMARK [3][-]{subsubsection.3.2.5}{Age}{subsection.3.2}% 14
+\BOOKMARK [3][-]{subsubsection.3.2.6}{Diabetes Pedigree Function}{subsection.3.2}% 15
+\BOOKMARK [1][-]{section.4}{Model Building}{}% 16
+\BOOKMARK [2][-]{subsection.4.1}{Dimensionality Reduction using PCA}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.2}{Spliting dataset into train and test}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.3}{Using Logistic Regression}{section.4}% 19
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Logistic regression without dimensionality reduction\(without PCA\)}{subsection.4.3}% 20
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Logistic regression with dimensionality reduction\(PCA\)}{subsection.4.3}% 21
+\BOOKMARK [2][-]{subsection.4.4}{Using K-Nearest Neighbour}{section.4}% 22
+\BOOKMARK [3][-]{subsubsection.4.4.1}{K-NN without dimensionality reduction\(without PCA\)}{subsection.4.4}% 23
+\BOOKMARK [3][-]{subsubsection.4.4.2}{K-NN with dimensionality reduction\(PCA\)}{subsection.4.4}% 24
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 25
